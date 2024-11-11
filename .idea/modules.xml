@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Intro_project.iml" filepath="$PROJECT_DIR$/.idea/Intro_project.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Laundryproject.iml" filepath="$PROJECT_DIR$/.idea/Laundryproject.iml" />
+>>>>>>> c7f376a (My project's landing page)
     </modules>
   </component>
 </project>

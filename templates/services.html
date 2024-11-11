@@ -1,0 +1,21 @@
+{% extends 'main.html' %}
+
+{% block title %}
+    <title>Service</title>
+{% endblock %}
+
+{% block content %}
+    <h2 class="text-center text-success">Our services</h2>
+    {% for s in services %}
+        <p>{{ s }}</p>
+    {% endfor %}
+
+    <h3> Ksh {{ price }} per kg</h3>
+    <h3> Opening at {{ opening }}am</h3>
+
+    {% if price > 210 %}
+        <p>offer discount to customer</p>
+    {% else %}
+        <p>No discount, kindly contact us</p>
+    {% endif %}
+{% endblock %}

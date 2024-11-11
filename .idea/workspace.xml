@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="8cd45aac-aca3-44a3-bf08-aff4d2471a4b" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/Intro_project.iml" afterDir="false" />
+=======
+    <list default="true" id="13e65159-397c-4b06-95dd-df3f9ae40fcc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Laundryproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+>>>>>>> c7f376a (My project's landing page)
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/Intro_project/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Intro_project/asgi.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Intro_project/settings.py" afterDir="false" />
@@ -28,26 +35,66 @@
       <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/service.html" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/Laundryproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laundryproject/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laundryproject/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laundryproject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Laundryproject/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laundry_hub/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laundry_hub/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laundry_hub/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laundry_hub/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laundry_hub/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laundry_hub/static/css/my_styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laundry_hub/static/images/Instagram.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laundry_hub/static/images/Linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laundry_hub/static/images/Twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laundry_hub/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/laundry_hub/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/services.html" afterDir="false" />
+>>>>>>> c7f376a (My project's landing page)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+>>>>>>> c7f376a (My project's landing page)
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+<<<<<<< HEAD
+=======
+        <option value="CSS File" />
+>>>>>>> c7f376a (My project's landing page)
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 8
 }]]></component>
   <component name="ProjectId" id="2oPysa7U6zjVB2dbEHyKsMhMof3" />
+=======
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2oSxxIGMvc80fSlpjTJb4796JCl" />
+>>>>>>> c7f376a (My project's landing page)
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -58,11 +105,23 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+<<<<<<< HEAD
     "Django Server.Intro_project.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "django.template.preview.state": "SHOW_EDITOR",
     "git-widget-placeholder": "master",
+=======
+    "Django Server.Laundryproject.executor": "Run",
+    "Python.manage.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "django.template.preview.state": "SHOW_EDITOR",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/marto/PycharmProjects/Laundryproject/laundry_hub/static/images",
+    "list.type.of.created.stylesheet": "CSS",
+>>>>>>> c7f376a (My project's landing page)
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,15 +130,30 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration name="Intro_project" type="Python.DjangoServer" factoryName="Django server">
       <module name="Intro_project" />
+=======
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/laundry_hub/static/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Laundryproject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Laundryproject" />
+>>>>>>> c7f376a (My project's landing page)
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+<<<<<<< HEAD
         <env name="DJANGO_SETTINGS_MODULE" value="Intro_project.settings" />
+=======
+        <env name="DJANGO_SETTINGS_MODULE" value="Laundryproject.settings" />
+>>>>>>> c7f376a (My project's landing page)
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -109,16 +183,36 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="8cd45aac-aca3-44a3-bf08-aff4d2471a4b" name="Changes" comment="" />
       <created>1730785713467</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730785713467</updated>
       <workItem from="1730785714581" duration="5216000" />
+=======
+      <changelist id="13e65159-397c-4b06-95dd-df3f9ae40fcc" name="Changes" comment="" />
+      <created>1730877023666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730877023666</updated>
+      <workItem from="1730877025014" duration="717000" />
+      <workItem from="1730956787045" duration="1705000" />
+      <workItem from="1730960020185" duration="6836000" />
+      <workItem from="1731035793326" duration="4403000" />
+      <workItem from="1731294055024" duration="2582000" />
+      <workItem from="1731296782500" duration="736000" />
+>>>>>>> c7f376a (My project's landing page)
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Laundryproject$manage.coverage" NAME="manage Coverage Results" MODIFIED="1730877104643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+>>>>>>> c7f376a (My project's landing page)
 </project>

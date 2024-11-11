@@ -6,7 +6,11 @@ import sys
 
 def main():
     """Run administrative tasks."""
+<<<<<<< HEAD
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Intro_project.settings')
+=======
+    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Laundryproject.settings')
+>>>>>>> c7f376a (My project's landing page)
     try:
         from django.core.management import execute_from_command_line
     except ImportError as exc:

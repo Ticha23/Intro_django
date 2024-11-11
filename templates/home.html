@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,3 +15,33 @@
 </div>
 </body>
 </html>
+
+{% extends 'main.html' %}
+{% load static %}
+
+
+{% block title %}
+    <title>Home</title>
+{% endblock %}
+
+{% block content %}
+    <h2 class="text-center text-danger">The home of cleanness</h2>
+    <p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. At dignissimos eligendi officia quasi rem ullam, voluptatum. Adipisci commodi exercitationem illo, inventore nam neque, omnis porro quibusdam sit totam veritatis voluptatum.</span><span>At cumque dicta, doloribus ducimus expedita quod repellendus! Aliquid architecto dicta ducimus eligendi eos excepturi, fugiat ipsam iusto labore magni non, quasi quos tempore ut voluptate! Dolorum ea ex ipsam!</span>
+    </p>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-4">
+                <img src="{% static 'images/Instagram.png' %}" alt="Instagram application">
+            </div>
+            <div class="col-sm-4">
+                <img src="{% static  'images/Linkedin.png' %}" alt="Linkedin application">
+            </div>
+            <div class="col-sm-4">
+                <img src="{% static 'images/Twitter.png' %}" alt="Twitter app, where fun lives">
+            </div>
+        </div>
+
+    </div>
+{% endblock %}
+>>>>>>> c7f376a (My project's landing page)
